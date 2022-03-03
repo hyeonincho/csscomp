@@ -1,0 +1,39 @@
+.test {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 100px;
+    height: 100px;
+    color: red;
+    background-color: blue;
+}
+.test2 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 100px;
+    height: 100px;
+    color: red;
+    background-color: blue;
+    
+}
+.test3 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 100px;
+    height: 100px;
+    color: red;
+    background-color: blue;
+    
+}
+.test4 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 100px;
+    height: 100px;
+    color: red;
+    background-color: blue;
+    box-shadow: none;   
+}
